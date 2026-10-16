@@ -1,0 +1,7 @@
+Kronos Companion 1.1.0 — SHA-256
+=================================
+
+692d7e72568ebd39f1a87d17a9cb7c48c5f7362d97e7ce289e603109f3a2951a  Kronos_Companion_1.1.0_Windows.zip
+69abc37a3e29d13ef3f08e4f3ecfc70a833494f71b9eedcee96b7001f4edf50f  Kronos_Companion_1.1.0_macOS.zip
+b7d3679d52a69d0634e0297ef8770fb6c1d16b239b752e1e35d9615a51f0e1e4  Kronos_Companion_Module_1.1.0.tgz
+79da9f3de198c07d1fd6c30ff2edab6de25f300ff6d18c5c69ef802e631e3fec  Kronos_Companion_Module_1.1.0_Source.zip
