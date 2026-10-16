@@ -1,0 +1,24 @@
+{
+  "type": "connection",
+  "id": "kronos-bridge-local",
+  "name": "Kronos Companion",
+  "shortname": "Kronos",
+  "description": "Community integration for Kronos 2017 countdown timers: dynamic timer list, Follow Kronos Order, stable IDs, Live/Broadcast presets and macOS/Windows database discovery.",
+  "version": "1.1.0",
+  "isPrerelease": false,
+  "license": "MIT",
+  "repository": "https://github.com/lem120/kronos-companion",
+  "bugs": "https://github.com/lem120/kronos-companion/issues",
+  "maintainers": [{"name":"Kronos Companion community integration","github":"lem120"}],
+  "runtime": {
+    "type":"node26",
+    "api":"nodejs-ipc",
+    "apiVersion":"2.2.0",
+    "entrypoint":"../main.js",
+    "permissions":{"filesystem":true}
+  },
+  "legacyIds":[],
+  "manufacturer":"Kronos Companion Community",
+  "products":["Kronos 2017"],
+  "keywords":["kronos","timer","countdown","companion","http"]
+}
